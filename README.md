@@ -42,5 +42,4 @@ Our stop word list can be found [here](https://github.com/mkoniari/LegalDivEval/
 ## Citing 
 
 If you use queries and relevance assessments utilized in this work in your research, please cite:
-
-Koniaris, M.; Anagnostopoulos, I.; Vassiliou, Y. Evaluation of Diversification Techniques for Legal Information Retrieval. Preprints 2016, 2016110116 (doi: 10.20944/preprints201611.0116.v1).
+>Koniaris, M.; Anagnostopoulos, I.; Vassiliou, Y. Evaluation of Diversification Techniques for Legal Information Retrieval. Preprints 2016, 2016110116 (doi: 10.20944/preprints201611.0116.v1).
