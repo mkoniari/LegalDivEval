@@ -42,11 +42,11 @@ Our stop word list can be found [here](https://github.com/mkoniari/LegalDivEval/
 C source code for diversity task evaluation (trec - ndeval) can be found [here](http://trec.nist.gov/data/web/09/ndeval.c)
 
 ## Results
-Our results can be found [here](https://github.com/mkoniari/LegalDivEval/tree/master/results)
+Our results can be found  [here](https://github.com/mkoniari/LegalDivEval/tree/master/results). 
+
 For each query, our initial set N contains the top - n query results.  The interpolation parameter l [0..1] is tuned in 0.1 steps separately for each method. 
-We present the evaluation results for the methods employed, using the aforementioned evaluation metrics, at cut-off values of 5, 10, 20 and 30, as typical in TREC evaluations. 
-Results are presented with fixed parameter n = |N|. 
-Note that each of the diversification variations, is applied in combination with each of the diversification algorithms and for each user query
+
+We present the evaluation results for the methods employed, using the aforementioned evaluation metrics, at cut-off values of 5, 10, 20 and 30, as typical in TREC evaluations. Note that each of the diversification variations, is applied in combination with each of the diversification algorithms and for each user query
 
 ## Citing 
 
