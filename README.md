@@ -1,6 +1,6 @@
 # Diversifying the Legal Order
 
-This page is a companion for the paper on [Evaluation of Diversification Techniques for Legal Information Retrieval](http://dx.doi.org/10.20944/preprints201611.0116.v1), written by Koniaris Marios (me), Ioannis Anagnostopoulos and Yannis Vassiliou. 
+This page is a companion for the paper on [Evaluation of Diversification Techniques for Legal Information Retrieval](http://www.mdpi.com/1999-4893/10/1/22), written by Koniaris Marios (me), Ioannis Anagnostopoulos and Yannis Vassiliou. 
 
 This page hosts the complete dataset, ground-truth data, queries and relevance assessments we utilize in the article. Our goal is to encourage progress on the diversification in legal IR.
 
