@@ -51,4 +51,4 @@ We present the evaluation results for the methods employed, using the aforementi
 ## Citing 
 
 If you use queries and relevance assessments utilized in this work in your research, please cite:
->Koniaris, M.; Anagnostopoulos, I.; Vassiliou, Y. Evaluation of Diversification Techniques for Legal Information Retrieval. Preprints 2016, 2016110116 (doi: 10.20944/preprints201611.0116.v1).
+>Koniaris, M.; Anagnostopoulos, I.; Vassiliou, Y. Evaluation of Diversification Techniques for Legal Information Retrieval. Algorithms 2017, 10(1), 22;  (doi:10.3390/a10010022).
